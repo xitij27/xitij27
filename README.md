@@ -5,7 +5,6 @@ You can click the Preview link to take a look at your changes.
 # 💫 About Me:
 Hey,<br>I'm Kshitij. I'm interested and currently working on fullstack projects.
 <br> Check out some of my coolest projects here: <br>
-📝 https://github.com/orgs/CZ3002-Advanced-Software-Egineeringg/repositories <br>
 📝 https://github.com/xitij27/myBikeSG <br>
 ... more coming soon 😉 <br>
 
