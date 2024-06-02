@@ -5,7 +5,10 @@ You can click the Preview link to take a look at your changes.
 # 💫 About Me:
 Hey,<br>I'm Kshitij. I'm interested and currently working on fullstack projects.
 <br> Check out some of my coolest projects here: <br>
+📝 https://github.com/xitij27/Robust-Voice-Activity-Detection-using-DNN-Approaches <br>
 📝 https://github.com/xitij27/myBikeSG <br>
+📝 https://github.com/CZ4042-nndl/Deep-Image-Colourization-Techniques <br>
+📝 https://github.com/AISDC-2023/aisdc <br>
 ... more coming soon 😉 <br>
 
 
