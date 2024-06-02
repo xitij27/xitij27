@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey,<br>I'm Kshitij. I'm .
+Hey,<br>I'm Kshitij.
 <br> Check out some of my coolest projects here: <br>
 📝 https://github.com/xitij27/Robust-Voice-Activity-Detection-using-DNN-Approaches <br>
 📝 https://github.com/xitij27/myBikeSG <br>
