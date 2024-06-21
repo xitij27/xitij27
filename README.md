@@ -100,9 +100,10 @@ Hey,<br>I'm Kshitij.
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko) 
 
+<!--
 ### 😄 Random Dev Meme
 <img src='https://memer-new.vercel.app/' style="height: 350px;"/>
-
+-->
 ---
 [![](https://visitcount.itsvg.in/api?id=xitij27&label=Profile%20Views&color=1&pretty=false)](https://visitcount.itsvg.in)
 
