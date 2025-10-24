@@ -7,10 +7,6 @@ Hey,<br>I'm Kshitij.
 📝 https://github.com/AISDC-2023/aisdc <br>
 ... more coming soon 😉 <br>
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/xitijp) 
-
 # 💻 Familiar Technologies:
 ## Programming Languages
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
