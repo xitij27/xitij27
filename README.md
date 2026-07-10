@@ -1,7 +1,6 @@
 # 💫 About Me:
 Hey, I'm **Kshitij Parashar** 👋<br><br>
 🔬 Enjoy working at the intersection of research and engineering.<br>
-🌐 Portfolio: **https://xitij27.vercel.app**
 
 ## 🌐 Socials:
 [![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=vercel&logoColor=white)](https://xitij27.vercel.app)
