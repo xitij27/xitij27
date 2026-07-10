@@ -13,7 +13,6 @@ Hey, I'm **Kshitij Parashar** 👋<br><br>
 📝 [myBikeSG](https://github.com/xitij27/myBikeSG) — Bike-sharing companion app for Singapore on the MERN + Firebase stack <br>
 📝 [Deep Image Colourization Techniques](https://github.com/CZ4042-nndl/Deep-Image-Colourization-Techniques) — CNN encoder-decoder for automatic grayscale image colourization <br>
 📝 [AISDC 2023](https://github.com/AISDC-2023/aisdc) — Companion web app for the AI Student Developer Conference 2023 <br>
-🏇 Horse Health Prediction — Kaggle competition entry, **top 6.7% globally** <br>
 ... and more on my [website](https://xitij27.vercel.app) 😉 <br>
 
 # 💻 Familiar Technologies:
