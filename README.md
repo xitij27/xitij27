@@ -10,7 +10,6 @@ Hey, I'm **Kshitij Parashar** 👋<br><br>
 # 🚀 Featured Projects:
 📝 [Robust Voice Activity Detection using DNN Approaches](https://github.com/xitij27/Robust-Voice-Activity-Detection-using-DNN-Approaches) — LSTM-based VAD in PyTorch with ONNX export for portable inference <br>
 📝 [ResumeLens AI](https://github.com/xitij27/ai-resume-analyzer) — AI-powered résumé feedback app built with React and Puter.js serverless <br>
-📝 [myBikeSG](https://github.com/xitij27/myBikeSG) — Bike-sharing companion app for Singapore on the MERN + Firebase stack <br>
 📝 [Deep Image Colourization Techniques](https://github.com/CZ4042-nndl/Deep-Image-Colourization-Techniques) — CNN encoder-decoder for automatic grayscale image colourization <br>
 📝 [AISDC 2023](https://github.com/AISDC-2023/aisdc) — Companion web app for the AI Student Developer Conference 2023 <br>
 ... and more on my [website](https://xitij27.vercel.app) 😉 <br>
