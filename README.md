@@ -3,8 +3,6 @@ Hey, I'm **KP** 👋<br><br>
 🔬 Enjoy working at the intersection of research and engineering.<br>
 
 ## 🌐 Socials:
-[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=vercel&logoColor=white)](https://xitij27.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/xitij27)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kp27work@gmail.com)
 
 # 🚀 Featured Projects:
