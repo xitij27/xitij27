@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey, I'm **Kshitij Parashar** 👋<br><br>
+Hey, I'm **KP** 👋<br><br>
 🔬 Enjoy working at the intersection of research and engineering.<br>
 
 ## 🌐 Socials:
