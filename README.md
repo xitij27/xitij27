@@ -9,7 +9,7 @@ Hey, I'm **KP** 👋<br><br>
 📝 [Robust Voice Activity Detection using DNN Approaches](https://github.com/xitij27/Robust-Voice-Activity-Detection-using-DNN-Approaches) — LSTM-based VAD in PyTorch with ONNX export for portable inference <br>
 📝 [ResumeLens AI](https://github.com/xitij27/ai-resume-analyzer) — AI-powered résumé feedback app built with React and Puter.js serverless <br>
 📝 [Deep Image Colourization Techniques](https://github.com/CZ4042-nndl/Deep-Image-Colourization-Techniques) — CNN encoder-decoder for automatic grayscale image colourization <br>
-📝 [AISDC 2023](https://github.com/AISDC-2023/aisdc) — Companion web app for the AI Student Developer Conference 2023 <br>
+📝 [AISDC 2023](https://github.com/AISDC-2023/aisdc) — Companion web app for the National AI Student Developer Conference 2023, Singapore <br>
 
 # 💻 Familiar Technologies:
 **Languages**<br>
