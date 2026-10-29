@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 6" width="1000" height="6">
+  <!-- Section divider: a faint purple-to-blue line with a soft glow gliding along it. -->
+  <defs>
+    <linearGradient id="base" x1="0" x2="1">
+      <stop offset="0" stop-color="#8B5CF6"/>
+      <stop offset="1" stop-color="#3B82F6"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="0" x2="1">
+      <stop offset="0" stop-color="#3B82F6" stop-opacity="0"/>
+      <stop offset="0.35" stop-color="#8B5CF6"/>
+      <stop offset="0.5" stop-color="#C4B5FD"/>
+      <stop offset="0.65" stop-color="#22D3EE"/>
+      <stop offset="1" stop-color="#3B82F6" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="line">
+      <rect x="0" y="1" width="1000" height="4" rx="2"/>
+    </clipPath>
+  </defs>
+  <style>
+    .glow { animation: glide 3.6s cubic-bezier(0.45, 0, 0.55, 1) infinite; }
+    @keyframes glide {
+      from { transform: translateX(-400px); }
+      to { transform: translateX(1000px); }
+    }
+    @media (prefers-reduced-motion: reduce) {
+      .glow { animation: none; transform: translateX(300px); }
+    }
+  </style>
+  <g clip-path="url(#line)">
+    <rect width="1000" height="6" fill="url(#base)" opacity="0.4"/>
+    <rect class="glow" width="400" height="6" fill="url(#glow)"/>
+  </g>
+</svg>

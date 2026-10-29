@@ -14,13 +14,13 @@ I like working at the intersection of research and engineering.
 
 ### 🚀 Recent work
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="">
+<img src="https://raw.githubusercontent.com/xitij27/xitij27/main/assets/divider.svg" width="100%" alt="">
 
-![AI agent](https://img.shields.io/badge/AI%20agent-8B5CF6?style=flat-square) **[Storyfolio](https://github.com/xitij27/storyfolio)**: a Claude Code and Codex skill that turns a résumé into a 3D scroll-story portfolio site. [Live demo →](https://xitij27.github.io/storyfolio/transitions/)
+![AI agent](https://img.shields.io/badge/AI%20agent-8B5CF6?style=flat-square) **[Storyfolio](https://github.com/xitij27/storyfolio)**: a Claude Code and Codex skill that turns a résumé into a 3D scroll-story portfolio site.
 
-![Android app](https://img.shields.io/badge/Android%20app-10B981?style=flat-square) **[Do.Move](https://github.com/xitij27/domove)**: how Dortmund's roadworks affect your routes, and the way around them. [Dashboard →](https://domove-dashboard-beta.vercel.app)
+![Android app](https://img.shields.io/badge/Android%20app-10B981?style=flat-square) **[Do.Move](https://github.com/xitij27/domove)**: how Dortmund's roadworks affect your routes, and the way around them.
 
-![Research](https://img.shields.io/badge/Research-F59E0B?style=flat-square) **[Attacking explanations in face verification](https://github.com/xitij27/HCML-project)**: an invisible change that keeps a face-match decision but moves 75% of its saliency hot-spots. [Report →](https://github.com/xitij27/HCML-project/blob/main/report/Report.pdf)
+![Research](https://img.shields.io/badge/Research-F59E0B?style=flat-square) **[Attacking explanations in face verification](https://github.com/xitij27/HCML-project)**: an invisible change that keeps a face-match decision but moves 75% of its saliency hot-spots.
 
 ![Systems](https://img.shields.io/badge/Systems-3B82F6?style=flat-square) **[Backstop Market Maker](https://github.com/xitij27/backstop-market-maker)**: a low-latency async trading bot, 200–500 ms per cycle.
 
@@ -37,7 +37,7 @@ I like working at the intersection of research and engineering.
 
 ### 🛠️ Tools I use
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="">
+<img src="https://raw.githubusercontent.com/xitij27/xitij27/main/assets/divider.svg" width="100%" alt="">
 
 <!-- To change these icons, edit GROUPS in assets/make_tools_svg.py and run it. -->
 <picture>
@@ -47,7 +47,7 @@ I like working at the intersection of research and engineering.
 
 ### 📊 Activity
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="">
+<img src="https://raw.githubusercontent.com/xitij27/xitij27/main/assets/divider.svg" width="100%" alt="">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xitij27/xitij27/output/github-snake-dark.svg">
@@ -64,7 +64,7 @@ I like working at the intersection of research and engineering.
 
 ### ☕ Just for fun
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="">
+<img src="https://raw.githubusercontent.com/xitij27/xitij27/main/assets/divider.svg" width="100%" alt="">
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random dev quote">
