@@ -7,7 +7,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=58A6FF&vCenter=true&width=520&lines=Turning+ML+research+into+things+people+use;Speech+%C2%B7+Vision+%C2%B7+AI+agents;PyTorch+%E2%86%92+ONNX+%E2%86%92+production" alt="Turning ML research into things people use">
 
-I train the model, then build the product around it.
+I like working at the intersection of research and engineering.
 
 [![Email](https://img.shields.io/badge/Email-kp27work%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kp27work@gmail.com)
 <br clear="right">
