@@ -16,7 +16,7 @@ I like working at the intersection of research and engineering.
 
 <img src="https://raw.githubusercontent.com/xitij27/xitij27/main/assets/divider.svg" width="100%" alt="">
 
-<img src="https://img.shields.io/badge/AI%20agent-8B5CF6?style=flat-square" alt="AI agent" align="absmiddle"> **[Storyfolio](https://github.com/xitij27/storyfolio)**: a Claude Code and Codex skill that turns a résumé into a 3D scroll-story portfolio site.
+<img src="https://img.shields.io/badge/AI%20agent-8B5CF6?style=flat-square" alt="AI agent" align="absmiddle"> **[Storyfolio](https://github.com/xitij27/storyfolio)**: a skill for AI agents to build a scrollable 3D portfolio website.
 
 <img src="https://img.shields.io/badge/Android%20app-10B981?style=flat-square" alt="Android app" align="absmiddle"> **[Do.Move](https://github.com/xitij27/domove)**: how Dortmund's roadworks affect your routes, and the way around them.
 
