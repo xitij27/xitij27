@@ -16,19 +16,20 @@ I like working at the intersection of research and engineering.
 
 <img src="https://raw.githubusercontent.com/xitij27/xitij27/main/assets/divider.svg" width="100%" alt="">
 
-![AI agent](https://img.shields.io/badge/AI%20agent-8B5CF6?style=flat-square) **[Storyfolio](https://github.com/xitij27/storyfolio)**: a Claude Code and Codex skill that turns a résumé into a 3D scroll-story portfolio site.
+<img src="https://img.shields.io/badge/AI%20agent-8B5CF6?style=flat-square" alt="AI agent" align="absmiddle"> **[Storyfolio](https://github.com/xitij27/storyfolio)**: a Claude Code and Codex skill that turns a résumé into a 3D scroll-story portfolio site.
 
-![Android app](https://img.shields.io/badge/Android%20app-10B981?style=flat-square) **[Do.Move](https://github.com/xitij27/domove)**: how Dortmund's roadworks affect your routes, and the way around them.
+<img src="https://img.shields.io/badge/Android%20app-10B981?style=flat-square" alt="Android app" align="absmiddle"> **[Do.Move](https://github.com/xitij27/domove)**: how Dortmund's roadworks affect your routes, and the way around them.
 
-![Research](https://img.shields.io/badge/Research-F59E0B?style=flat-square) **[Attacking explanations in face verification](https://github.com/xitij27/HCML-project)**: an invisible change that keeps a face-match decision but moves 75% of its saliency hot-spots.
+<img src="https://img.shields.io/badge/Research-F59E0B?style=flat-square" alt="Research" align="absmiddle"> **[Attacking explanations in face verification](https://github.com/xitij27/HCML-project)**: an invisible change that keeps a face-match decision but moves 75% of its saliency hot-spots.
 
-![Systems](https://img.shields.io/badge/Systems-3B82F6?style=flat-square) **[Backstop Market Maker](https://github.com/xitij27/backstop-market-maker)**: a low-latency async trading bot, 200–500 ms per cycle.
+<img src="https://img.shields.io/badge/Systems-3B82F6?style=flat-square" alt="Systems" align="absmiddle"> **[Backstop Market Maker](https://github.com/xitij27/backstop-market-maker)**: a low-latency async trading bot, 200–500 ms per cycle.
+
+<img src="https://img.shields.io/badge/Bachelor%20thesis-EC4899?style=flat-square" alt="Bachelor thesis" align="absmiddle"> **[Robust Voice Activity Detection using DNN Approaches](https://github.com/xitij27/Robust-Voice-Activity-Detection-using-DNN-Approaches)**: my bachelor's thesis.
 
 <details>
 <summary>Earlier work</summary>
 <br>
 
-- 🎙️ [Robust Voice Activity Detection](https://github.com/xitij27/Robust-Voice-Activity-Detection-using-DNN-Approaches): LSTM speech detection in PyTorch, exported to ONNX
 - 🎨 [Deep Image Colourization](https://github.com/CZ4042-nndl/Deep-Image-Colourization-Techniques): a CNN encoder-decoder that colours grayscale photos
 - 📄 [ResumeLens AI](https://github.com/xitij27/ai-resume-analyzer): AI résumé feedback app (archived)
 - 🎟️ [AISDC 2023](https://github.com/AISDC-2023/aisdc): companion web app for the National AI Student Developer Conference 2023, Singapore
