@@ -50,10 +50,10 @@ I like working at the intersection of research and engineering.
 
 <img src="https://raw.githubusercontent.com/xitij27/xitij27/main/assets/divider.svg" width="100%" alt="">
 
+<!-- Redrawn daily by .github/workflows/profile-3d.yml. To change the colours, edit assets/3d-contrib.json. -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xitij27/xitij27/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xitij27/xitij27/output/github-snake.svg">
-  <img alt="A snake eating my GitHub contribution graph" src="https://raw.githubusercontent.com/xitij27/xitij27/output/github-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xitij27/xitij27/output/profile-3d-dark.svg">
+  <img alt="My GitHub contributions over the past year as a 3D calendar, with totals for commits, stars and languages" src="https://raw.githubusercontent.com/xitij27/xitij27/output/profile-3d-light.svg" width="100%">
 </picture>
 
 <p align="center">
