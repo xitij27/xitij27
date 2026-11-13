@@ -14,6 +14,8 @@
 
 <img src="https://raw.githubusercontent.com/xitij27/xitij27/main/assets/divider.svg" width="100%" alt="">
 
+<img src="https://img.shields.io/badge/Hackathon%20win-14B8A6?style=flat-square" alt="Hackathon win" align="absmiddle"> **[Xetra Tape](https://www.linkedin.com/feed/update/urn:li:activity:7527095834769915904/)**: an AI analyst that shows companies listed in Frankfurt how their share trades; 1st place in the Deutsche Börse challenge at Futury Build Days.
+
 <img src="https://img.shields.io/badge/AI%20agent-8B5CF6?style=flat-square" alt="AI agent" align="absmiddle"> **[Storyfolio](https://github.com/xitij27/storyfolio)**: a skill for AI agents to build a scrollable 3D portfolio website.
 
 <img src="https://img.shields.io/badge/Android%20app-10B981?style=flat-square" alt="Android app" align="absmiddle"> **[Do.Move](https://github.com/xitij27/domove)**: how Dortmund's roadworks affect your routes, and the way around them.
